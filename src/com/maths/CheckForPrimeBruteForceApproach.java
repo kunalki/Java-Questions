@@ -2,7 +2,7 @@ package com.maths;
 
 import java.util.Scanner;
 
-public class CheckForPrime {
+public class CheckForPrimeBruteForceApproach {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number to check if prime: ");
